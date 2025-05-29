@@ -37,7 +37,7 @@ I then developed the interactive Power BI dashboard with the following features:
 ## 4. Presentation of Results
 Finally, I presented the dashboard to the project manager, clearly linking each part of the dashboard to her strategic objectives. I demonstrated how the visualisations support real-time monitoring and informed decision-making.
 
-## III. Tools used
+# III. Tools used
 
 Microsoft Power BI: for data modeling and dashboard creation
 
