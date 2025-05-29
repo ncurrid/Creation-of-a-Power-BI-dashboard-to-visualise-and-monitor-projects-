@@ -45,4 +45,6 @@ Power Query Editor: for data transformation and preparation
 
 DAX (Data Analysis Expressions): for calculations and performance analysis
 
+M langage TROUVER DEFINITION
+
 Microsoft PowerPoint: for the final presentation of results
