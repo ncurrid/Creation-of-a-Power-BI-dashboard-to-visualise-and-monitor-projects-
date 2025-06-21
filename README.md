@@ -41,7 +41,7 @@ Finally, I presented the dashboard to the project manager, clearly linking each 
 
 Microsoft Power BI: for data modeling and dashboard creation
 
-Power Query Editor: for data transformation and preparation
+Power Query Editor (ETL): for data transformation and preparation
 
 DAX (Data Analysis Expressions): for calculations and performance analysis
 
