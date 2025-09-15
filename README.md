@@ -10,7 +10,7 @@ The dashboard needed to support three user roles, each with different levels of 
 ## 1. Product Strategy canvas
 To ensure a clear understanding of the client’s needs, I began by:
 
-- Creating a Product Strategy Canvas, using a provided template.
+- Creating a Product Strategy Canvas, using a provided template,
 
 - Writing user stories for each role to define their objectives, responsibilities, and the level of data access required.
 
@@ -19,32 +19,32 @@ This helped ensure alignment between the technical development of the dashboard 
 ## 2. Data Preparation
 Next, I worked on preparing the data for analysis:
 
-- Loaded data into Power Query Editor for transformation and cleaning.
+- Loaded data into Power Query Editor for transformation and cleaning,
 
-- Linked tables to enable cross-analysis between datasets.
+- Linked tables to enable cross-analysis between datasets,
 
 - Designed a star schema data model, organising the data warehouse for optimal performance and clarity.
 
 ## 3. Dashboard Development
 I then developed the interactive Power BI dashboard with the following features:
 
-- Used DAX (Data Analysis Expressions) to calculate key metrics and detect project delays or budget overruns.
+- Used DAX (Data Analysis Expressions) to calculate key metrics and detect project delays or budget overruns,
 
-- Configured row-level security to define user access permissions according to their role (CEO, Regional Manager, or Country Manager).
+- Configured row-level security to define user access permissions according to their role (CEO, Regional Manager, or Country Manager),
 
-- Built visualisations of Key Performance Indicators (KPIs) such as: Project status (on track, delayed, or over budget), Budget vs actuals, Completion rates per region/country.
+- Built visualisations of KPIs such as: Project status (on track, delayed, or over budget), Budget vs actuals, Completion rates per region/country.
 
 ## 4. Presentation of Results
-Finally, I presented the dashboard to the project manager, clearly linking each part of the dashboard to her strategic objectives. I demonstrated how the visualisations support real-time monitoring and informed decision-making.
+Finally, I presented the dashboard to the project manager, linking each part of the dashboard to her strategic objectives. I demonstrated how the visualisations support real-time monitoring and informed decision-making.
 
 # III. Tools used
 
-Microsoft Power BI: for data modeling and dashboard creation
+**Microsoft Power BI**: for data modeling and dashboard creation
 
-Power Query Editor (ETL): for data transformation and preparation
+**Power Query Editor** (ETL): for data transformation and preparation
 
-DAX (Data Analysis Expressions): for calculations and performance analysis
+**M langage** in Power Query: to connect, clean, shape, and load data before analysis
 
-M langage TROUVER DEFINITION
+**DAX** (Data Analysis Expressions): for calculations and performance analysis
 
-Microsoft PowerPoint: for the final presentation of results
+**Microsoft PowerPoint**: for the final presentation of results
