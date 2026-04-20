@@ -1,4 +1,16 @@
 # Creation of a Power BI dashboard to visualise and monitor projects
+## Tools
+
+**Power BI**: for data modeling and dashboard creation
+
+**Power Query Editor** (ETL): for data transformation and preparation
+
+**M langage** in Power Query: to connect, clean, shape, and load data before analysis
+
+**DAX** (Data Analysis Expressions): for calculations and performance analysis
+
+**Microsoft PowerPoint**: for the final presentation of results
+
 # I. Context
 I carried out a data visualisation consulting mission for Sanitorial, an international company that develops and sells oral care products.
 
@@ -36,15 +48,3 @@ I then developed the interactive Power BI dashboard with the following features:
 
 ## 4. Presentation of Results
 Finally, I presented the dashboard to the project manager, linking each part of the dashboard to her strategic objectives. I demonstrated how the visualisations support real-time monitoring and informed decision-making.
-
-# III. Tools used
-
-**Microsoft Power BI**: for data modeling and dashboard creation
-
-**Power Query Editor** (ETL): for data transformation and preparation
-
-**M langage** in Power Query: to connect, clean, shape, and load data before analysis
-
-**DAX** (Data Analysis Expressions): for calculations and performance analysis
-
-**Microsoft PowerPoint**: for the final presentation of results
